@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "hashed_password",
+      "isAdmin": true
+    }
+  ],
+  "settings": {
+    "version": "1.0"
+  }
+}
